@@ -1,0 +1,79 @@
+{
+    "posts": [
+        {
+            "name": "HTML",
+            "duration": "2",
+            "important": false,
+            "id": 1
+          },
+          {
+            "id": 2,
+            "name": "CSS",
+            "duration": "1",
+            "important": false
+          },
+          {
+            "id": 3,
+            "name": "JS",
+            "duration": "2",
+            "important": false
+          },
+          {
+            "id": 4,
+            "name": "React",
+            "duration": "2",
+            "important": true
+          },
+          {
+            "name": "Node JS",
+            "duration": "1",
+            "important": false,
+            "id": 5
+          },
+          {
+            "name": "Hello",
+            "duration": "2",
+            "important": true,
+            "created_at": "2022-10-21",
+            "id": 7
+          },
+          {
+            "name": "",
+            "duration": "",
+            "important": true,
+            "created_at": "2023-04-15T10:58:42.963Z",
+            "id": 8
+        }
+    ],
+    "users": [
+        {
+            "email": "test@mail.ru",
+            "password": "$2a$10$qXp/jWYaSQdpLbMHbnemCuGEG7VHcWuoXpQ1W7SJiC3/0LzBR70pC",
+            "id": 1
+          },
+          {
+            "email": "test1@mail.ru",
+            "password": "$2a$10$ZhR8yOvB2j6Kwplewwx8O.OnY84VhGwpAhrPulaOJzsbGWtyS0wna",
+            "id": 2
+          },
+          {
+            "email": "test2@mail.ru",
+            "password": "$2a$10$6kQOWHUAF0T/FVR0WBJnHuR05BICUvO.46qUK4pY80ghip4ln11Le",
+            "login": "Arsen",
+            "id": 3
+          },
+          {
+            "email": "test3@mail.ru",
+            "password": "$2a$10$BP06h/8cTwiFhhW8y4T4mOTJB//I2my.vVlxmqG.1brcAXn0iUUrO",
+            "login": "Admin",
+            "id": 4,
+            "role": "admin"
+          },
+          {
+            "email": "w@email.ru",
+            "password": "$2a$10$WQKDI1yw.H3Y55uFjTkZZOZlXQDhs5e4kwRbgvlj9ys/fl0fRVp8e",
+            "login": "ww",
+            "id": 5
+          }
+    ]
+}

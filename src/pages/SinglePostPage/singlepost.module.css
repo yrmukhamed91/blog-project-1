@@ -1,0 +1,19 @@
+.post-info {
+    display: flex;
+    justify-content: space-between;
+}
+.duration {
+    font-size: 24px;
+}
+.status {
+    font-size: 22px;
+}
+.status-wrapper {
+    display: flex;
+    align-items: center;
+}
+.post-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
